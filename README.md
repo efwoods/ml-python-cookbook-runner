@@ -18,3 +18,7 @@ Go to http://localhost:8888 to open notebooks and run them (you may need the tok
 - The image is _massive_ with all requirements added, slim it down as much as possible
 - Break out the requirements into individual files or sets of files per chapter to avoid installing _everything_
 - Pin the dependencies so nothing breaks down the road
+
+
+## [Continue](https://learning.oreilly.com/library/view/machine-learning-with/9781098135713/ch21.html
+)
